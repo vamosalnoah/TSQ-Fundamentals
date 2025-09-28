@@ -2,7 +2,7 @@
 -- T-SQL Fundamentals Fourth Edition
 -- Chapter 02 - Single-Table Queries
 -- Exercises
--- © Itzik Ben-Gan 
+-- ï¿½ Itzik Ben-Gan 
 ---------------------------------------------------------------------
 
 -- 1 
